@@ -21,4 +21,5 @@ a {
                 position: absolute;
                 bottom: 10px;
                 right: 10px;
+  font: 40px Monaco,"Times New Roman","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
             }
