@@ -18,9 +18,8 @@ p {
 }
 
 a {
-                position: absolute;
+
                 bottom: 10px;
-                right:auto;
-  left: auto;
+                text-align: center
   font: 40px Monaco,"Times New Roman","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
             }
