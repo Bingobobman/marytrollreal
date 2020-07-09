@@ -14,4 +14,5 @@ p {
   width: auto;
   margin: 50px auto;
   font: 200px Monaco,"Times New Roman","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  text-align: center
 }
