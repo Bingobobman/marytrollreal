@@ -16,3 +16,8 @@ p {
   font: 200px Monaco,"Times New Roman","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
   text-align: center
 }
+
+a {
+   margin-right: -10px;
+   margin-bottom: -10px;
+}
