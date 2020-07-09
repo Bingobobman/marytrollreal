@@ -20,6 +20,7 @@ p {
 a {
                 position: absolute;
                 bottom: 10px;
-                text-align: center;
+                right:auto;
+  left: auto;
   font: 40px Monaco,"Times New Roman","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
             }
